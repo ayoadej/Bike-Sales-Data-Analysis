@@ -33,3 +33,12 @@ This project demonstrates practical skills in data cleaning, exploratory analysi
 - Designed an interactive Excel dashboard to visualise KPIs and trends.
 - Used charts and pivot visuals to present insights clearly and intuitively.
 - Built the dashboard to support quick, data-driven decision-making by stakeholders.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts & Dashboards
+- Data Cleaning & Transformation
+
+## Conclusion
+This project demonstrates the end-to-end use of Excel for data cleaning, analysis, and dashboard creation. By transforming raw sales data into clear, interactive insights, the project highlights how Excel can be effectively used to support data-driven decision-making in a business context.
