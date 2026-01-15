@@ -6,3 +6,7 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 
 ## Dataset used
 - <a href= "https://github.com/ayoadej/Bike-Sales-Data-Analysis/blob/main/Bike%20Sales%20Data%20Exploration.xlsx">Bike Sales Dataset</a>
+
+## Dashboard
+- <a href= "https://github.com/ayoadej/Bike-Sales-Data-Analysis/blob/main/Bike%20Data%20Dahboard.png">Dashboard</a>
+
